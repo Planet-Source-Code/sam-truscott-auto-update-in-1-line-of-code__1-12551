@@ -1,0 +1,5 @@
+[Version]
+Version=3.0.67
+DOR=24.09.00
+Filesize=220kb
+Whatsnew=Re-designed Bill List with home-made FileFormat, fixed intergreated AutoUpdate support.
